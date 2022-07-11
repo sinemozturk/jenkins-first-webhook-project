@@ -1,1 +1,1 @@
-print ("hi Earth")
+print ("hi Earth from sina")
